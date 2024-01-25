@@ -1,3 +1,13 @@
+
+Siteyi açtıkdan sonra lütfen biraz bekleyin Marvel Api ların gelmesi biraz zaman alabiliyor. 
+Sitede gözükmeyen fotoğraflar yada bilgiler kodun hatasından dolayı değil marvelin sağladığı bilgilere artık erişilemediğinden kaynaklanıyor. 
+
+
+
+
+
+
+
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
